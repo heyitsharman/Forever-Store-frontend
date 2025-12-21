@@ -19,7 +19,7 @@ const Product = () => {
           setImage(item.images[0]);
         }
         return null;
-
+        
       }
     })
   }
@@ -87,7 +87,7 @@ const Product = () => {
                 </div>
                 <div className='flex flex-col gap-4 border px-6 py-6 text-sm text-gray-500'>
                   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod explicabo placeat ab? Ab totam, molestiae ut reiciendis quidem quibusdam. Iusto ut enim, fugit dicta minus natus odio consectetur dolorum iure! Esse earum voluptatibus facere id aspernatur vel voluptatum delectus. Eos eum aut nesciunt voluptatum quasi earum amet impedit rerum molestias.</p>
-                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo, placeat!</p>
+                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.Nemo, placeat!</p>
                 </div>
               </div>
 
